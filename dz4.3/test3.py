@@ -27,6 +27,7 @@ def uniq_el(list_nums: list):
     return result
 
     
+    
 all_list = list_rand_nums(int(input("number of numbers: ")))
 print(all_list)
 print(uniq_el(all_list))
